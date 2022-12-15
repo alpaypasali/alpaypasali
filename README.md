@@ -1,11 +1,11 @@
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=alpaypasali.visitor-badge)](https://GitHub.com/CerenBdk/StrapDown.js/stargazers/)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=alpaypasali.visitor-badge)](https://GitHub.com/alpaypasali/StrapDown.js/stargazers/)
 ### Hi there 
 I'm Alpay!
 
 Contact me !
 
-  <a href="https://www.linkedin.com/in/alpay-paşalı/" target="_blank" rel="nofollow"><img alt="Ceren's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="mailto:alpaypasali@gmail.com" target="_blank" rel="nofollow"><img alt="Ceren's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alpay-pasali/" target="_blank" rel="nofollow"><img alt="Alpay's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="mailto:alpaypasali@gmail.com" target="_blank" rel="nofollow"><img alt="Alpay's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  
  
 ![Alpay's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpaypasali&show_icons=true&theme=default)
