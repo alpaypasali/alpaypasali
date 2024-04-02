@@ -1,4 +1,4 @@
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=alpaypasali.visitor-badge)](https://GitHub.com/alpaypasali/StrapDown.js/stargazers/)
+
 ### Hi there 
 I'm Alpay!
 
