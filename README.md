@@ -7,7 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I possess extensive expertise in .NET and general Full Stack technologies. With a strong foundation in backend development using tools such as C#, Entity Framework, and .NetCore, I also have experience working with leading cloud platforms like AWS. Additionally, I have accumulated significant knowledge in microservices architecture through hands-on projects. While I currently have a beginner-level proficiency in Java, I am committed to rapidly advancing my skills and deepening my understanding in this area. By staying updated on microservices architecture, modern software development processes, and current trends, I continuously cultivate a forward-thinking perspective throughout my career.
 
 * 🌍  I'm based in Turkey
-* 🖥️  See my portfolio at [Linkledln](http://https://www.linkedin.com/in/alpay-pasali/)
 * ✉️  You can contact me at [alpaypasali@gmail.com](mailto:alpaypasali@gmail.com)
 
 ### Skills
