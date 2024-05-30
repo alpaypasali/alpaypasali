@@ -38,8 +38,13 @@ I possess extensive expertise in .NET and general Full Stack technologies. With 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alpaypasali&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alpaypasali&icon=0&color=10)](https://visitcount.itsvg.in)
