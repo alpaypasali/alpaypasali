@@ -22,7 +22,7 @@ I possess extensive expertise in .NET and general Full Stack technologies. With 
 
 ### Socials
 
-<p align="left"><a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+<p align="left"><a href="https://www.linkedin.com/in/alpay-pasali/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
 </a>
 <a href="https://medium.com/@alpaypasali" target="_blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  /> </a>
