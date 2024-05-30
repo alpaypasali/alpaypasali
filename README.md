@@ -1,44 +1,33 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alpay Pasali
+====================================================================================================================================
 
-### Hi there 
-I'm Alpay!
+.Net Developer | Backend Developer
+----------------------------------
 
-Contact me !
+I possess extensive expertise in .NET and general Full Stack technologies. With a strong foundation in backend development using tools such as C#, Entity Framework, and .NetCore, I also have experience working with leading cloud platforms like AWS. Additionally, I have accumulated significant knowledge in microservices architecture through hands-on projects. While I currently have a beginner-level proficiency in Java, I am committed to rapidly advancing my skills and deepening my understanding in this area. By staying updated on microservices architecture, modern software development processes, and current trends, I continuously cultivate a forward-thinking perspective throughout my career.
 
-  <a href="https://www.linkedin.com/in/alpay-pasali/" target="_blank" rel="nofollow"><img alt="Alpay's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="mailto:alpaypasali@gmail.com" target="_blank" rel="nofollow"><img alt="Alpay's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- 
- 
-![Alpay's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpaypasali&show_icons=true&theme=default)
+* 🌍  I'm based in Turkey
+* 🖥️  See my portfolio at [Linkledln](http://https://www.linkedin.com/in/alpay-pasali/)
+* ✉️  You can contact me at [alpaypasali@gmail.com](mailto:alpaypasali@gmail.com)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpaypasali&layout=compact&theme=light)
-
-
-## Technologies & Tools 
-<img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=red"></img>
-<img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=white"></img>
-<img src="https://img.shields.io/badge/.NETCore-black?style=for-the-badge&logo=.net&logoColor=red"></img>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java&logoColor=red"></img>
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=red"></img>
-<img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
-<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red" />
-<img src="https://img.shields.io/badge/Erwin-black?style=for-the-badge&logo=Java&logoColor=red"></img>
-<img src="https://img.shields.io/badge/IBM Rational Rose XDE-black?style=for-the-badge&logo=Java&logoColor=red"></img>
-
-## IDE
-<img src="https://img.shields.io/badge/Visual_Studio_2022-black?style=for-the-badge&logo=visual%20studio&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipse&logoColor=white"></img>
+### Skills
 
 
-## Ask me about 💬
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+</p>
 
-I'd like to get in touch with the following topics
 
-  - Design Patterns
-  - ERwin Data Modeler
-  - Clean Architecture
-  - Unified Modelling Language (UML)
-  - Data Flow Diagrams
-  - .NET Core
+### Socials
+
+<p align="left"> <a href="https://www.github.com/alpaypasali" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/alpay-pasali/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@alpaypasali" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/alpaypasali"><img src="https://github-readme-stats.vercel.app/api?username=alpaypasali&show_icons=true&hide=stars,prs,issues,&title_color=f97316&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="alpaypasali's GitHub stats" /></a>
+
+<a href="http://www.github.com/alpaypasali"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alpaypasali&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/alpaypasali"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=alpaypasali&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
