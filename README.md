@@ -1,3 +1,6 @@
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alpaypasali&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alpay Pasali
 ====================================================================================================================================
 
@@ -31,8 +34,6 @@ I possess extensive expertise in .NET and general Full Stack technologies. With 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpaypasali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alpaypasali&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alpaypasali&limit=5&theme=dark&combine_all_yearly_contributions=true)
