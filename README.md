@@ -48,3 +48,6 @@ I possess extensive expertise in .NET and general Full Stack technologies. With 
 [![](https://visitcount.itsvg.in/api?id=alpaypasali&icon=0&color=10)](https://visitcount.itsvg.in)
 
 
+<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+</a>
