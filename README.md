@@ -40,7 +40,7 @@ I possess extensive expertise in .NET and general Full Stack technologies. With 
 
 ###
 
-<img src="https://raw.githubusercontent.com/alpaypasali/alpaypasali/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/alpaypasali/alpaypasali/blob/main/.github/workflow/github-snake.svg" alt="Snake animation" />
 
 ###
 
