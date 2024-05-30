@@ -30,4 +30,4 @@ I possess extensive expertise in .NET and general Full Stack technologies. With 
 
 <a href="http://www.github.com/alpaypasali"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alpaypasali&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/alpaypasali"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=alpaypasali&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
