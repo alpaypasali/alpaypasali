@@ -83,10 +83,21 @@ My recent work focuses on:
 ## 🔗 Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in/alpay-pasali/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" /></a>
-<a href="https://medium.com/@alpaypasali" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" /></a>
-<a href="https://t.me/alpaypasali" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" /></a>
-<a href="https://www.hackerrank.com/profile/alpaypasali" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" /></a>
+<a href="https://www.linkedin.com/in/alpay-pasali/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" />
+</a>
+<a href="https://medium.com/@alpaypasali" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" />
+</a>
+<a href="https://t.me/alpaypasali" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" />
+</a>
+<a href="https://www.hackerrank.com/profile/alpaypasali" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" />
+</a>
+<a href="https://www.kaggle.com/alpaypasali" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="50" height="40" alt="kaggle logo" />
+</a>
 </p>
 
 ---
